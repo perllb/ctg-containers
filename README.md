@@ -2,8 +2,8 @@
 - Singularity containers for ctg NGS data processing
 
 ### Containers
-- sc-rna-10x: For 10x single cell mRNA-seq. Based on cellranger
-- ngs-tools: Misc tools for ngs data processing
+- [ sc-rna-10x ]: For 10x single cell mRNA-seq. Based on cellranger
+- [ ngs-tools ] : Misc tools for ngs data processing
 - More to come
 
 ### HOWTO:
